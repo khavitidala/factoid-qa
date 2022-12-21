@@ -1,1 +1,2 @@
-# factoid-qa
+# Finetuning FacQA
+Question Answering (Modul Answer Finder) adalah Sebuah task NLP (Natural Language Processing) yang bertujuan untuk menghasilkan jawaban (factoid) berdasar dua input yang tersedia yaitu pertanyaan pengguna dan paragraf/kalimat yang merupakan sumber jawaban. Tipe factoid adalah jawaban yang berbentuk serangkaian kata yang merupakan bagian dari sebuah kalimat. Tipe factoid yang tersedia pada dataset ini adalah (`Person`, `Organization`, `Location`, `Datetime`, `Quantity`)
